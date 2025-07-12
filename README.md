@@ -25,13 +25,12 @@ A Python script designed for cybersecurity researchers and developers to quickly
 
 ## ⚙️ Installation
 
-1.  **Clone the repository** (or download the `recon_scanner.py` script):
+1.  **Clone the repository** (or download the `samscan.py` script):
     ```bash
-    git clone https://github.com/YourGitHubUsername/reconnaissance-scanner.git
-    cd reconnaissance-scanner # Navigate into the project directory
+    git clone https://github.com/Haccihummade0/samscanner.git
+    cd samscanner
     ```
-    *(Replace `YourGitHubUsername` and `reconnaissance-scanner` with your actual GitHub details if you create a repository for this script).*
-
+    
 2.  **Install the required Python packages**:
     ```bash
     pip install -r requirements.txt
@@ -42,7 +41,7 @@ A Python script designed for cybersecurity researchers and developers to quickly
 
 1.  **Run the script** from your terminal:
     ```bash
-    python recon_scanner.py
+    python samscan.py
     ```
 
 2.  **Enter the target domain** when prompted (e.g., `example.com`).
