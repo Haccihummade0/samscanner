@@ -1,5 +1,6 @@
-# Comprehensive Reconnaissance Scanner
+# SAMSCAN WEBTOOL 
 
+# Comprehensive Reconnaissance Scanner
 A Python script designed for cybersecurity researchers and developers to quickly map the attack surface of a target domain by collecting a wide range of useful reconnaissance data. This tool helps in identifying potential vulnerabilities and understanding the target's infrastructure.
 
 ## ✨ Features
